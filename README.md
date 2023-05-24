@@ -1,2 +1,2 @@
 # product_count_extraction
-We scrape product counts from the mentioned websites
+This code does background scraping of product count information from the mentioned list of websites
